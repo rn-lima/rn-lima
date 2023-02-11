@@ -17,15 +17,12 @@ Here are some ideas to get you started:
 
 🎓 Software Engineer 10+
 
-<img title="Java" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" title="Python">Java 8+
+<img title="Java" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/java.svg" title="Python">Java 8+ years | <img title="Python" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg" title="Python"> Python 6+ years |  <img title="Node" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs.svg" title="Node">Nodejs 3+
 
-<img title="Python" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg" title="Python"> Python 6+
-
-<img title="Node" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/nodejs.svg" title="Node">Nodejs 3+
 
 
  </div>
- <div align="center" style="display: inline_block"><br>
+ <div align="left" style="display: inline_block"><br>
   Others Stacks:      .
   <img title="django" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/django.svg" title="django">
   <img title="linux" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/linux.svg" title="linux">
@@ -48,12 +45,12 @@ Here are some ideas to get you started:
  ##
     
  <div style="display:'flex', flexDirection:'row'" align="center">
-   <a href="https://github.com/rn-lima">
+   
    
    <img height="180" src=
-     "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rn-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+     "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rn-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"><img height="180" alt="code" src="https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif"> 
      
-   <img height="180" alt="code" src="https://cdn.dribbble.com/users/143127/screenshots/1451652/light-bulb-dribbble.gif">
+   
    <!-- 
 <img height="180" src=
    "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rn-lima&layout=compact&langs_count=7&theme=dark"/> 
