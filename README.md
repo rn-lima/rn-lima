@@ -51,10 +51,10 @@ Here are some ideas to get you started:
      "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rn-lima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"><img height="180" alt="code" src="https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif"> 
      
    
-   <!-- 
+ 
 <img height="180" src=
    "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rn-lima&layout=compact&langs_count=7&theme=dark"/> 
--->
+
 
  
  ##
