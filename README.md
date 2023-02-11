@@ -59,27 +59,4 @@ Here are some ideas to get you started:
  
  ##
 
-  ![Snake animation](https://github.com/evelyneds/evelyneds/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**evelynseds/evelyneds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 Atualmente trabalho com back-end
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- 📫 E-mail: evelyn.informatica@gmail.com
-Para prox atualizacoes
- <img align="right" alt="code" src="https://cdn.dribbble.com/users/143127/screenshots/1451652/light-bulb-dribbble.gif">
-                        https://i.pinimg.com/originals/c9/7d/6d/c97d6d2a2c5093b7805b15fd6e4b49e1.gif">
-https://img.devrant.com/devrant/rant/r_1864741_kSbCL.gif
-https://static.wixstatic.com/media/125b18_7f20c126ba2f43a3bfa8acce4a3f6d16~mv2.gif
-src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
-https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif
-
--->
+  ![Snake animation](https://github.com/rn-lima/rn-lima/blob/output/github-contribution-grid-snake.svg)
